@@ -13,7 +13,7 @@ To solve this, War3TFT Switcher was developed in **Visual Basic (VB)**, enabling
 - [War3TFT Switcher.exe - Google Drive](https://drive.google.com/file/d/1lWIxLE-E_4lz--xYVtnx-3v_16xdz4I6/view)
 
 ## Screenshots
-![War3TFT Switcher Screenshot](License.png)
+![War3TFT Switcher Screenshot](License_War3TFT_Switcher.png)
 ---
 ![War3TFT Switcher Screenshot](War3TFT_Switcher_Black.png)
 
@@ -75,4 +75,5 @@ WFXJO340257JA3O931843X6T3
 
 
 ---
+
 
