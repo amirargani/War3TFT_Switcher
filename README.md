@@ -8,7 +8,7 @@ Online players faced a major challenge: Garena required specific game versions, 
 
 To solve this, War3TFT Switcher was developed in **Visual Basic (VB)**, enabling version changes in **under 10 seconds** without duplicating entire game folders.
 
-## Download
+## Download (This program must be run as administrator.)
 - [War3TFT Switcher Version 2013](https://github.com/amirargani/War3TFT_Switcher/releases/tag/v2013)
 - [War3TFT Switcher.exe - Google Drive](https://drive.google.com/file/d/1lWIxLE-E_4lz--xYVtnx-3v_16xdz4I6/view)
 
@@ -75,5 +75,6 @@ WFXJO340257JA3O931843X6T3
 
 
 ---
+
 
 
