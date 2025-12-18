@@ -1,47 +1,63 @@
 
 # War3TFT Switcher
 
-## Overview
-War3TFT Switcher is a legacy utility created to simplify version switching for **Warcraft III: The Frozen Throne** players on the Garena platform (garena.sg).  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Language: VB](https://img.shields.io/badge/Language-Visual%20Basic-blue.svg)](https://en.wikipedia.org/wiki/Visual_Basic)
+[![Status: Legacy](https://img.shields.io/badge/Status-Legacy-orange.svg)](https://github.com/amirargani/War3TFT_Switcher)
 
-Online players faced a major challenge: Garena required specific game versions, forcing users to maintain multiple full installations of Warcraft III. Existing free tools at the time moved **1.5–2 GB of data** per switch, taking **5–10 minutes** to complete.
+## 📖 Overview
+**War3TFT Switcher** is a legacy utility designed to simplify version switching for **Warcraft III: The Frozen Throne** players, specifically those using the Garena platform.
 
-To solve this, War3TFT Switcher was developed in **Visual Basic (VB)**, enabling version changes in **under 10 seconds** without duplicating entire game folders.
+In the past, Garena required players to match specific game versions. This often meant maintaining multiple massive installations (1.5–2 GB each). Switching between them using standard tools could take 5–10 minutes. 
 
-## Download (This program must be run as administrator.)
-- [War3TFT Switcher Version 2013](https://github.com/amirargani/War3TFT_Switcher/releases/tag/v2013)
-- [War3TFT Switcher.exe - Google Drive](https://drive.google.com/file/d/1lWIxLE-E_4lz--xYVtnx-3v_16xdz4I6/view)
-
-## Screenshots
-![War3TFT Switcher Screenshot](License_War3TFT_Switcher.png)
----
-![War3TFT Switcher Screenshot](War3TFT_Switcher_Black.png)
+War3TFT Switcher solves this by enabling version changes in **under 10 seconds** without duplicating entire game folders, providing a lightweight and efficient solution for competitive play.
 
 ---
 
-## Features
-- ⚡ **Fast switching** between Warcraft III versions (under 10 seconds)  
-- 💾 **Lightweight solution** compared to other tools that required gigabytes of data movement  
-- 🕹️ Designed specifically for **Garena online play**  
-- 📅 Development period: **2009–2013**  
+## 🚀 Key Features
+- ⚡ **Ultra-Fast Switching**: Change versions in less than 10 seconds.
+- 💾 **Storage Efficient**: Avoids duplicating gigabytes of game data.
+- 🎯 **Garena Optimized**: Tailored for the specific needs of Garena online matchmaking.
+- ⏳ **Historical Context**: Developed between **2009 and 2013**.
 
 ---
 
-## Background
-- Original source code was lost due to a hard drive failure  
-- Only the compiled **EXE files** remain available  
-- Successor game **Dota 2** is now available via Steam  
+## 📥 Download
+> [!IMPORTANT]
+> This program **must be run as administrator** to function correctly.
+
+- [**War3TFT Switcher Version 2013**](https://github.com/amirargani/War3TFT_Switcher/releases/tag/v2013)
+- [**Alternative Download (Google Drive)**](https://drive.google.com/file/d/1lWIxLE-E_4lz--xYVtnx-3v_16xdz4I6/view)
 
 ---
 
-## Old Version-Screenshot
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="License_War3TFT_Switcher.png" alt="Main Interface" width="45%">
+  <img src="War3TFT_Switcher_Black.png" alt="Dark Mode Interface" width="45%">
+  <br>
+  <em>The modern interface of War3TFT Switcher (v2013)</em>
+</div>
+
+---
+
+## 📜 Background & Legacy
+- **Source Code**: The original source code was unfortunately lost due to a hardware failure. Only the compiled binaries remain.
+- **Current Era**: While the game has evolved (and Dota 2 has moved to Steam), this tool remains a piece of history for the legacy WC3 community.
+- **Classic Look**: Below is a look at the original classic version of the tool.
+
 ![War3TFT Switcher Classic](War3TFT_Switcher.jpg)  
+*Original Classic Interface*
 
 ---
 
-## Serials
+## 🔑 Serials
+<details>
+<summary>Click to view provided serial keys</summary>
 
-```
+```text
 57542ABBRQ292331YB4Q5A8I7
 62448GUVTU715915ID2E8Y0J1
 23203YGDEV119982OL6A3I2O4
@@ -71,10 +87,8 @@ OIMJB181941BU7R308902H8N2
 NDQIE353564RW2C338892J5D1
 DPILF667978RQ1X464364R4T5
 WFXJO340257JA3O931843X6T3
-``` 
-
+```
+</details>
 
 ---
-
-
-
+*Developed by Amir Argani*
