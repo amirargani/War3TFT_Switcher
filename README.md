@@ -1,10 +1,10 @@
 
 # War3TFT Switcher
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Language: VB](https://img.shields.io/badge/Language-Visual%20Basic-blue.svg)](https://en.wikipedia.org/wiki/Visual_Basic)
-[![Status: Legacy](https://img.shields.io/badge/Status-Legacy-orange.svg)](https://github.com/amirargani/War3TFT_Switcher)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Language: VB](https://img.shields.io/badge/Language-Visual%20Basic-blue.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Visual_Basic)
+[![Status: Legacy](https://img.shields.io/badge/Status-Legacy-orange.svg?style=for-the-badge)](https://github.com/amirargani/War3TFT_Switcher)
 
 ## 📖 Overview
 **War3TFT Switcher** is a legacy utility designed to simplify version switching for **Warcraft III: The Frozen Throne** players, specifically those using the Garena platform.
